@@ -1,1 +1,1 @@
-Sitemap: https://datasciencecampus.github.io/classifai/sitemap.xml
+Sitemap: https://uk-gov-mirror.github.io/datasciencecampus.classifai/sitemap.xml

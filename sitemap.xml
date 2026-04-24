@@ -1,179 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/DEMO/README.html</loc>
-    <lastmod>2026-03-30T13:46:07.069Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/DEMO/README.html</loc>
+    <lastmod>2026-04-24T02:41:42.879Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/DEMO/using_hooks.html</loc>
-    <lastmod>2026-03-30T13:46:07.073Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/DEMO/using_hooks.html</loc>
+    <lastmod>2026-04-24T02:41:42.883Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/DEMO/custom_vectoriser.html</loc>
-    <lastmod>2026-03-30T13:46:07.070Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/DEMO/custom_vectoriser.html</loc>
+    <lastmod>2026-04-24T02:41:42.880Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/vectorisers.html</loc>
-    <lastmod>2026-03-30T13:46:17.152Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/vectorisers.html</loc>
+    <lastmod>2026-04-24T02:41:52.044Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/vectorisers.huggingface.HuggingFaceVectoriser.html</loc>
-    <lastmod>2026-03-30T13:46:17.172Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/vectorisers.huggingface.HuggingFaceVectoriser.html</loc>
+    <lastmod>2026-04-24T02:41:52.067Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/vectorisers.base.html</loc>
-    <lastmod>2026-03-30T13:46:17.157Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/vectorisers.base.html</loc>
+    <lastmod>2026-04-24T02:41:52.050Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/vectorisers.base.VectoriserBase.html</loc>
-    <lastmod>2026-03-30T13:46:17.160Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/vectorisers.base.VectoriserBase.html</loc>
+    <lastmod>2026-04-24T02:41:52.053Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/servers.html</loc>
-    <lastmod>2026-03-30T13:46:17.354Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/servers.html</loc>
+    <lastmod>2026-04-24T02:41:52.265Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/servers.main.html</loc>
-    <lastmod>2026-03-30T13:46:17.369Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/servers.main.html</loc>
+    <lastmod>2026-04-24T02:41:52.281Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/servers.get_router.html</loc>
-    <lastmod>2026-03-30T13:46:17.373Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/servers.get_router.html</loc>
+    <lastmod>2026-04-24T02:41:52.286Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.main.html</loc>
-    <lastmod>2026-03-30T13:46:17.213Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.main.html</loc>
+    <lastmod>2026-04-24T02:41:52.111Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.hooks.hook_factory.html</loc>
-    <lastmod>2026-03-30T13:46:17.335Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.hooks.hook_factory.html</loc>
+    <lastmod>2026-04-24T02:41:52.244Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.hooks.default_hooks.html</loc>
-    <lastmod>2026-03-30T13:46:17.336Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.hooks.default_hooks.html</loc>
+    <lastmod>2026-04-24T02:41:52.245Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.hooks.default_hooks.preprocessing.CapitalisationStandardisingHook.html</loc>
-    <lastmod>2026-03-30T13:46:17.348Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.hooks.default_hooks.preprocessing.CapitalisationStandardisingHook.html</loc>
+    <lastmod>2026-04-24T02:41:52.258Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.hooks.default_hooks.postprocessing.RagHook.html</loc>
-    <lastmod>2026-03-30T13:46:17.353Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.hooks.default_hooks.postprocessing.RagHook.html</loc>
+    <lastmod>2026-04-24T02:41:52.264Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.dataclasses.html</loc>
-    <lastmod>2026-03-30T13:46:17.276Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.dataclasses.html</loc>
+    <lastmod>2026-04-24T02:41:52.179Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.dataclasses.VectorStoreSearchInput.html</loc>
-    <lastmod>2026-03-30T13:46:17.281Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.dataclasses.VectorStoreSearchInput.html</loc>
+    <lastmod>2026-04-24T02:41:52.185Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.dataclasses.VectorStoreReverseSearchInput.html</loc>
-    <lastmod>2026-03-30T13:46:17.294Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.dataclasses.VectorStoreReverseSearchInput.html</loc>
+    <lastmod>2026-04-24T02:41:52.199Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.dataclasses.VectorStoreEmbedInput.html</loc>
-    <lastmod>2026-03-30T13:46:17.306Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.dataclasses.VectorStoreEmbedInput.html</loc>
+    <lastmod>2026-04-24T02:41:52.213Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.VectorStore.reverse_search.html</loc>
-    <lastmod>2026-03-30T13:46:17.326Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.VectorStore.reverse_search.html</loc>
+    <lastmod>2026-04-24T02:41:52.234Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.VectorStore.from_filespace.html</loc>
-    <lastmod>2026-03-30T13:46:17.331Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.VectorStore.from_filespace.html</loc>
+    <lastmod>2026-04-24T02:41:52.239Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/index.html</loc>
-    <lastmod>2026-03-30T13:46:17.136Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/index.html</loc>
+    <lastmod>2026-04-24T02:41:52.026Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/index.html</loc>
-    <lastmod>2026-03-30T13:46:07.073Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/index.html</loc>
+    <lastmod>2026-04-24T02:41:42.884Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.VectorStore.embed.html</loc>
-    <lastmod>2026-03-30T13:46:17.316Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.VectorStore.embed.html</loc>
+    <lastmod>2026-04-24T02:41:52.224Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.VectorStore.html</loc>
-    <lastmod>2026-03-30T13:46:17.237Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.VectorStore.html</loc>
+    <lastmod>2026-04-24T02:41:52.137Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.VectorStore.search.html</loc>
-    <lastmod>2026-03-30T13:46:17.321Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.VectorStore.search.html</loc>
+    <lastmod>2026-04-24T02:41:52.229Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.dataclasses.VectorStoreEmbedOutput.html</loc>
-    <lastmod>2026-03-30T13:46:17.312Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.dataclasses.VectorStoreEmbedOutput.html</loc>
+    <lastmod>2026-04-24T02:41:52.220Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.dataclasses.VectorStoreReverseSearchOutput.html</loc>
-    <lastmod>2026-03-30T13:46:17.301Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.dataclasses.VectorStoreReverseSearchOutput.html</loc>
+    <lastmod>2026-04-24T02:41:52.206Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.dataclasses.VectorStoreSearchOutput.html</loc>
-    <lastmod>2026-03-30T13:46:17.288Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.dataclasses.VectorStoreSearchOutput.html</loc>
+    <lastmod>2026-04-24T02:41:52.193Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.hooks.default_hooks.postprocessing.DeduplicationHook.html</loc>
-    <lastmod>2026-03-30T13:46:17.350Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.hooks.default_hooks.postprocessing.DeduplicationHook.html</loc>
+    <lastmod>2026-04-24T02:41:52.260Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.hooks.default_hooks.postprocessing.html</loc>
-    <lastmod>2026-03-30T13:46:17.344Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.hooks.default_hooks.postprocessing.html</loc>
+    <lastmod>2026-04-24T02:41:52.254Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.hooks.default_hooks.preprocessing.html</loc>
-    <lastmod>2026-03-30T13:46:17.339Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.hooks.default_hooks.preprocessing.html</loc>
+    <lastmod>2026-04-24T02:41:52.248Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.hooks.hook_factory.HookBase.html</loc>
-    <lastmod>2026-03-30T13:46:17.346Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.hooks.hook_factory.HookBase.html</loc>
+    <lastmod>2026-04-24T02:41:52.256Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.hooks.html</loc>
-    <lastmod>2026-03-30T13:46:17.332Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.hooks.html</loc>
+    <lastmod>2026-04-24T02:41:52.241Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/indexers.html</loc>
-    <lastmod>2026-03-30T13:46:17.188Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/indexers.html</loc>
+    <lastmod>2026-04-24T02:41:52.083Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/servers.get_server.html</loc>
-    <lastmod>2026-03-30T13:46:17.377Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/servers.get_server.html</loc>
+    <lastmod>2026-04-24T02:41:52.289Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/servers.make_endpoints.html</loc>
-    <lastmod>2026-03-30T13:46:17.383Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/servers.make_endpoints.html</loc>
+    <lastmod>2026-04-24T02:41:52.296Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/servers.run_server.html</loc>
-    <lastmod>2026-03-30T13:46:17.381Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/servers.run_server.html</loc>
+    <lastmod>2026-04-24T02:41:52.293Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/vectorisers.base.VectoriserBase.transform.html</loc>
-    <lastmod>2026-03-30T13:46:17.162Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/vectorisers.base.VectoriserBase.transform.html</loc>
+    <lastmod>2026-04-24T02:41:52.055Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/vectorisers.gcp.GcpVectoriser.html</loc>
-    <lastmod>2026-03-30T13:46:17.186Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/vectorisers.gcp.GcpVectoriser.html</loc>
+    <lastmod>2026-04-24T02:41:52.082Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/docs/vectorisers.ollama.OllamaVectoriser.html</loc>
-    <lastmod>2026-03-30T13:46:17.179Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/docs/vectorisers.ollama.OllamaVectoriser.html</loc>
+    <lastmod>2026-04-24T02:41:52.073Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/DEMO/ai_agent_hooks.html</loc>
-    <lastmod>2026-03-30T13:46:07.070Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/DEMO/ai_agent_hooks.html</loc>
+    <lastmod>2026-04-24T02:41:42.880Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/DEMO/general_workflow_demo.html</loc>
-    <lastmod>2026-03-30T13:46:07.072Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/DEMO/general_workflow_demo.html</loc>
+    <lastmod>2026-04-24T02:41:42.883Z</lastmod>
   </url>
   <url>
-    <loc>https://datasciencecampus.github.io/classifai/README.html</loc>
-    <lastmod>2026-03-30T13:46:07.073Z</lastmod>
+    <loc>https://uk-gov-mirror.github.io/datasciencecampus.classifai/README.html</loc>
+    <lastmod>2026-04-24T02:41:42.883Z</lastmod>
   </url>
 </urlset>
